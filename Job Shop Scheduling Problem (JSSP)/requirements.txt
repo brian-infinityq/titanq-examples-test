@@ -1,5 +1,5 @@
 plotly>=5.14.1
-numpy>=1.24.4
+numpy>=1.24.4,<2.0
 nbformat>=4.2.0
 pandas
 titanq
